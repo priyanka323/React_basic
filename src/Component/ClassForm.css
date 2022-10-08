@@ -1,0 +1,23 @@
+.FormContainer{
+    /* background-color: antiquewhite;
+    align-items: center;
+    margin: 5rem; */
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(211, 173, 123);
+    row-gap: 0px;
+    height: 15rem;
+    
+
+}
+
+.name{
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}
+
+.box{
+    position: absolute;
+    margin-right: 15px;
+}

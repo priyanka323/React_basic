@@ -1,0 +1,22 @@
+.Header{
+    background: blue;
+    width: 50vw;
+    height: 20vh;
+    padding: 5px;
+}
+
+.container{
+    width: 50vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.DisplayData{
+    background: aqua;
+    width: 50vw;
+    height: 40vh;
+    padding: 5px;
+}
